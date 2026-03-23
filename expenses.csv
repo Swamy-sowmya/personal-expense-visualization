@@ -1,0 +1,31 @@
+Date,Category,Description,Amount,Payment_Method
+2025-01-01,Food,Breakfast,120,UPI
+2025-01-01,Transport,Bus Ticket,40,Cash
+2025-01-02,Food,Lunch,180,UPI
+2025-01-02,Shopping,Groceries,950,Card
+2025-01-03,Bills,Electricity Bill,1200,UPI
+2025-01-03,Entertainment,Movie,300,Card
+2025-01-04,Food,Dinner,250,UPI
+2025-01-04,Transport,Auto,80,Cash
+2025-01-05,Health,Medicines,450,Card
+2025-01-05,Food,Snacks,100,Cash
+2025-01-06,Shopping,Clothes,1800,Card
+2025-01-06,Transport,Metro,60,UPI
+2025-01-07,Bills,Internet Bill,700,UPI
+2025-01-07,Food,Lunch,200,UPI
+2025-01-08,Entertainment,Streaming Subscription,499,Card
+2025-01-08,Food,Dinner,220,Cash
+2025-01-09,Transport,Bus Ticket,40,Cash
+2025-01-09,Shopping,Stationery,300,UPI
+2025-01-10,Food,Breakfast,130,UPI
+2025-01-10,Health,Doctor Visit,800,Card
+2025-01-11,Food,Lunch,210,UPI
+2025-01-11,Transport,Taxi,150,UPI
+2025-01-12,Shopping,Shoes,2200,Card
+2025-01-12,Food,Dinner,260,Cash
+2025-01-13,Bills,Water Bill,350,UPI
+2025-01-13,Food,Snacks,90,Cash
+2025-01-14,Entertainment,Concert Ticket,1500,Card
+2025-01-14,Transport,Bus Ticket,40,Cash
+2025-01-15,Food,Lunch,180,UPI
+2025-01-15,Shopping,Online Purchase,1200,Card
